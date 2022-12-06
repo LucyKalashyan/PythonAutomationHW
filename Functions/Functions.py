@@ -48,5 +48,3 @@ print(case_count("Python is mind-blowing,I love it!"))
 #5.Write a Python function that takes a number as a parameter and check the number is prime or not
 def my_num(prime):
 
-
-print("It is a prime number:", my_num)
